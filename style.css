@@ -1,0 +1,27 @@
+body{
+    text-size-adjust: 80%;
+    font-size: 1000%;
+    font-style: oblique;
+    font-weight: inherit;
+    text-align: center;
+    font-stretch: semi-expanded;
+    border-width: thick;
+    background: fixed;
+    border-color: aliceblue;
+    border-style: groove; 
+    font: bolder;
+    color: rgb(212, 42, 19);
+    background-image:url("C:\Users\Rai\reactproject2\src\ac.gif");
+
+}
+button{
+    margin-top: 5px;
+    text-emphasis-color: blue;
+    
+    border-width: thick;
+    border-spacing: initial;
+    border-radius: 0vmax;
+    
+    bottom: 0;
+    font-size: inherit;
+}
